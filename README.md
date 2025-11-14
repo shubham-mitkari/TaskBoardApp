@@ -38,6 +38,14 @@ A simple TaskBoard Android application built using Kotlin, Jetpack Compose, Room
 - Form validation and error handling
 - Empty and loading states
 
+## 📸 Screenshots
+
+<img src="screenshots/Screenshot_20251114_110753.png" width="380" alt="Task List Screen" />
+<img src="screenshots/Screenshot_20251114_110737.png" width="380" alt="Task List Screen" />
+<img src="screenshots/Screenshot_20251114_110827.png" width="380" alt="Task List Screen" />
+
+[Download Demo Video](Screenshots/Screen_recording_20251114_110908.mp4)
+
 ## Architecture
 
 This project follows **MVVM (Model-View-ViewModel)** with **Clean Architecture** principles:

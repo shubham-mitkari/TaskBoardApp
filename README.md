@@ -39,10 +39,9 @@ A simple TaskBoard Android application built using Kotlin, Jetpack Compose, Room
 - Empty and loading states
 
 ## 📸 Screenshots
+<img src="Screenshots/Screenshot_20251114_110827.png" width="380" alt="Task List Screen" />  <img src="Screenshots/Screenshot_20251114_110737.png" width="380" alt="Add Task Screen" />  <img src="Screenshots/Screenshot_20251114_110753.png" width="380" alt="Edit Task Screen" />
 
-<img src="screenshots/Screenshot_20251114_110753.png" width="380" alt="Task List Screen" />
-<img src="screenshots/Screenshot_20251114_110737.png" width="380" alt="Task List Screen" />
-<img src="screenshots/Screenshot_20251114_110827.png" width="380" alt="Task List Screen" />
+
 
 [Download Demo Video](Screenshots/Screen_recording_20251114_110908.mp4)
 
